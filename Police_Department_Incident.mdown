@@ -1,4 +1,4 @@
- ##### This is a markdown document which consists of the details of the Police Department Incident Dataset
+### This is a markdown document which consists of the details of the Police Department Incident Dataset
 
 ### Name of the Data Set
 **_Police Department Incident_**
@@ -34,7 +34,6 @@
     
   * Existing Authoritites of District Police station like Police Inspector or officer for investigation  of unresolved case, so that he/she can make decison for making stratergies against criminal to catch and also where to put more police force to minimize the crime rate.
   
-
 ##  Three question this data might help to answer.
    
    1. Where can I get a information of type of crime record in particular location of San Fransisco ? 

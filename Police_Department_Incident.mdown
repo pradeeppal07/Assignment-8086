@@ -11,9 +11,8 @@
  
 ## Description
      
-     > This Police Department Incident dataset contain 1048576 Rows and 13 Columns.
-
-     The San Fransisco Police Department Incident dataset provide lots of information logged from 1/1/2003 upto 2015. And this data can be use for police investigation, and with data of incident description records police are able to comedown to conclusioin and able to find out clues and identify the criminal.  
+> This Police Department Incident dataset contain 13807 Rows and 13 Columns.
+The San Fransisco Police Department Incident dataset provide lots of information logged from 1/1/2003 upto 2015. And this data can be use for police investigation, and with data of incident description records police are able to comedown to conclusioin and able to find out clues and identify the criminal.  
 
 ### This file contains CSV (Comma-Separated Values) text files.
 

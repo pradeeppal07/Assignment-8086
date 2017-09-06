@@ -17,7 +17,7 @@
 
 ### This file contains CSV (Comma-Separated Values) text files.
 
-     ###  Some of the sample headers
+      *Some of the sample headers
 
       IncidntNum	Category	     Descript	   DayOfWeek	Date	Time	PdDistrict	 Resolution	     Address	                     Location	                        PdId
       150060275	    NON-CRIMINAL	LOST PROPERTY	Monday	 1/19/2015	14:00	MISSION	        NONE	18TH ST / VALENCIA ST		(37.7617007179518, -122.42158168137)	1.5006E+13

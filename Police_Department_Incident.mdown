@@ -1,7 +1,7 @@
  ##### This is a markdown document which consists of the details of the Police Department Incident Dataset
 
 ### Name of the Data Set
-**_ Police Department Incident _**
+**_Police Department Incident_**
 
 ## Interesting Aspect in the Data Set.
  * > This incident of data take from san fransisco Police Department. 

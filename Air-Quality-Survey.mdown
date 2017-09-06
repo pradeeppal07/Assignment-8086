@@ -24,11 +24,10 @@ Air quality is an important priority for the city, especially for sensitive grou
 ## This file contains CSV (Comma-Separated Values) text files.
    
 ##  Some of the sample headers
-   
 ObjectID  	Date  	Sample_ID	      Parameter	           Results	Units     	CAS	    HRV	  Units1	HRV_Types	     Name	                   Description  Address                        
- 1	     13-Nov	     0005Nov13	1,2,4-Trimethylbenzene   	1.4	    ug/m3	   95-63-6	125000	ug/m3	    REL	        Smyth Companies LLC - Minneapolis NE	business	2300 26th St E
-           2	13-Nov	0005Nov13	2-Propanol	               87.6	   ug/m3	    67-63-0	980000	ug/m3	    REL	        Smyth Companies LLC - Minneapolis NE	business	2300 26th St E
-           3	13-Nov	0005Nov13	Acetone	                  8.4	    ug/m3	    67-64-1	590000	ug/m3	    REL	        Smyth Companies LLC - Minneapolis NE	business	2300 26th St E
+ 1	       13-Nov	  0005Nov13  	1,2,4-Trimethylbenzene   	1.4	    ug/m3	   95-63-6	125000	ug/m3	    REL	        Smyth Companies LLC - Minneapolis NE	business	2300 26th St E
+ 2       	13-Nov	  0005Nov13	     2-Propanol	               87.6	   ug/m3	    67-63-0	980000	ug/m3	    REL	        Smyth Companies LLC - Minneapolis NE	business	2300 26th St E
+ 3        13-Nov 	  0005Nov13	     Acetone	                  8.4	    ug/m3	    67-64-1	590000	ug/m3	    REL	        Smyth Companies LLC - Minneapolis NE	business	2300 26th St E
 
 
 ## LICENSE OR TERMS OF USE

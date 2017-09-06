@@ -1,0 +1,45 @@
+ ##### This is a markdown document which consists of the details of the Strom Events Data Set
+
+### Name of the Data Set
+**_Strom Event Dataset 2017_**
+
+## Interesting Aspect in the Data Set.
+ * > The National Centers for Environmental Information (NCEI) regularly receives Storm Data from the National Weather Service (NWS) 
+ * > This data set consists of state wise occurence of Event type in USA like Tornado, Thunderstrom Wind and Hail , Marine strong wind, Flash flood, Heavy rain, Heavy snow, Funnel Cloud, Extensive Heat.
+ * > This Data set also contain data values for locations, fatalities, injuries, damage, narratives and any other event specific information.
+ 
+## Description.
+
+   > This Air Quality Survey dataset contain 28680 Rows and 51 Columns.
+
+   The Strom Event dataset is having attributes such as State_FIPS, Storm magnitude with storm events type in particular location, and this data can be use in personal, educational, and academic purposes. 
+
+   ## The file formate is CSV (Comma-Separated Values) text files which represent a dump or export of the Storm Events Database.
+
+   ## Some of the sample headers.
+
+   > EVENT_ID	STATE	STATE_FIPS	YEAR	MONTH_NAME	EVENT_TYPE	CZ_TYPE	CZ_FIPS	CZ_NAME	WFO	BEGIN_DATE_TIME	CZ_TIMEZONE	END_DATE_TIME	INJURIES_DIRECT  	INJURIES_INDIRECT	DEATHS_DIRECT	DEATHS_INDIRECT	DAMAGE_PROPERTY	DAMAGE_CROPS	SOURCE	          MAGNITUDE
+
+   678791 NEW JERSEY	34	2017	April	Thunderstorm Wind	C	15	GLOUCESTER	PHI	4/6/2017      15:09	EST-5	4/6/2017      15:09	           0	              0	                       0	  0			                              Trained Spotter	          52
+   679188	ALABAMA	    1	2017	April	 Hail	            C	89	MADISON	HUN	    4/5/2017     15:55	CST-6	4/5/2017      15:55	           0	              0	                       0	  0			                              Broadcast Media	           1    
+
+## license or terms of use : please see [LICENSE](http://www.noaa.gov/protecting-your-privacy) by Google. 
+
+##  Potential data users and decision-makers for this data.
+    
+  * Climate data is of course used by scientists in their research and analysis of past, current, and future climate change. But today the information is also  commonly used by policy makers to inform strategies to prevent and adapt to climate change, and the scientist say even more data should become available so that society can reduce its vulnerability climate change.
+
+##  Three question this data might help to answer.
+   
+   1. Where can I get a list of the events type like toronado, hurricane used for watch locations where more frequenctly these events occur (research Purpose)? 
+   2. Where can I get information on building a safe room in my house to help protect our family from tornadoes? 
+   3. Where can information be obtained on the occurrence of lightning from a past storm event? 
+
+## Reference
+    NOAA Storm Data publication .(2017) Storm Event Dataset [Dataset CSV file]. Available from  Web site: ftp://ftp.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/
+
+
+
+
+
+ 

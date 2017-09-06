@@ -47,4 +47,5 @@ This data is released under the Creative Commons Attribution-ShareAlike 4.0 Inte
  
 
 ## Reference
-   Air Quality Survey(2015)  Minneopolis Air Quality Survey [Data file]. Available from  Web site: http://opendata.minneapolismn.gov/datasets/air-quality-survey
+Opendata.minneapolismn.gov. (2017)[online] Available at: http://opendata.minneapolismn.gov/datasets/air-quality-survey [Accessed 6 Sep. 2017].
+ 

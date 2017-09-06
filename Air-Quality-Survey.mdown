@@ -42,9 +42,9 @@ This data is released under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 ##  Three question this data might help to answer.
    
-   1.What do you think are the main causes of air pollution in your city through this survey?
-   2.How would you rate the overall air quality in your city now compared in between 2013 November to August 2015?
-   3.Which of the area or location are more risky to spend time for work, play and live ?
+   1. What do you think are the main causes of air pollution in your city through this survey?
+   2. How would you rate the overall air quality in your city now compared in between 2013 November to August 2015?
+   3. Which of the area or location are more risky to spend time for work, play and live ?
  
 
 ## Refrence

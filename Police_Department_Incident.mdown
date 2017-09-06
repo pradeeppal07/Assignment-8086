@@ -40,5 +40,5 @@
    2. What are the average rate of solving the crime case ? 
    3. in which area or location should police become more aware or alert to minimize the crime rate ? 
 
-## Refrence
+## Reference
 Police Department Incident (2015)  San Fransisco Police Department Incident[Data file]. Available from  Web site: https://data.sfgov.org/Public-Safety/Police-Department-Incidents/tmnf-yvry

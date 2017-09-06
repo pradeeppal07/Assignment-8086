@@ -40,4 +40,4 @@ The San Fransisco Police Department Incident dataset provide lots of information
    3. In which area or location should police become more aware or alert to minimize the crime rate ? 
 
 ## Reference
-Police Department Incident (2015)  San Fransisco Police Department Incident[Data file]. Available from  Web site: https://data.sfgov.org/Public-Safety/Police-Department-Incidents/tmnf-yvry
+Police Department Incidents | DataSF | City and County of San Francisco, data.sfgov.org/Public-Safety/Police-Department-Incidents/tmnf-yvry.

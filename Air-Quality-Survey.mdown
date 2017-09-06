@@ -1,7 +1,7 @@
  #### This is a markdown document which consist details dataset of the Air Quality Survey of Minneoplis. 
 
 ### Name of the Data Set
-**_ Air Quality Survey _**
+**_Air Quality Survey_**
 
 ## Interesting Aspect in the Data Set.
 

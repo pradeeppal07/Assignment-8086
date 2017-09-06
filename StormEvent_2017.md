@@ -36,7 +36,7 @@
    3. Where can information be obtained on the occurrence of lightning from a past storm event? 
 
 ## Reference
-    NOAA Storm Data publication .(2017) Storm Event Dataset [Dataset CSV file]. Available from  Web site: ftp://ftp.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/
+    National Centers for Environmental Information. (n.d.). Retrieved September 06, 2017, from https://www.ncdc.noaa.gov/
 
 
 

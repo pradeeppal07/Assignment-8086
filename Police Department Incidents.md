@@ -27,7 +27,7 @@ The San Fransisco Police Department Incident dataset provide lots of information
       150098232	  NON-CRIMINAL PROPERTY FOR DESTRUCTION	Sunday 2/1/2015 16:21	RICHMOND	    NONE	400 Block of LOCUST ST	    (37.7870853907529, -122.451781767894)	1.50098E+13
 
 
-## license or terms of use : please see[LICENSE](https://opendatacommons.org/licenses/pddl/1.0/) and [Terms of use](https://datasf.org/opendata/terms-of-use/)
+## license or terms of use : please see [LICENSE](https://opendatacommons.org/licenses/pddl/1.0/) and [Terms of use](https://datasf.org/opendata/terms-of-use/)
  
 ##  Potential data users and decision-makers for this data.
     

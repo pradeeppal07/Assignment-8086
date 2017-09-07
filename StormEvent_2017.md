@@ -36,7 +36,7 @@
    3. Where can information be obtained on the occurrence of lightning from a past storm event? 
 
 ## Reference
-    National Centers for Environmental Information. (n.d.). Retrieved September 06, 2017, from https://www.ncdc.noaa.gov/
+    National Centers for Environmental Information.(2017) Strom Event database 2017, from https://www.ncdc.noaa.gov/stormevents/
 
 
 

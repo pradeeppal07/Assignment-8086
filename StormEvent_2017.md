@@ -23,7 +23,7 @@
    678791 NEW JERSEY	34	2017	April	Thunderstorm Wind	C	15	GLOUCESTER	PHI	4/6/2017      15:09	EST-5	4/6/2017      15:09	           0	              0	                       0	  0			                              Trained Spotter	          52
    679188	ALABAMA	    1	2017	April	 Hail	            C	89	MADISON	HUN	    4/5/2017     15:55	CST-6	4/5/2017      15:55	           0	              0	                       0	  0			                              Broadcast Media	           1    
 ##  For more information about attributes click [here](https://www.ncdc.noaa.gov/stormevents/ftp.jsp).
-## license or terms of use : please see [LICENSE](http://www.noaa.gov/protecting-your-privacy) by Google. 
+## license or terms of use : No license is available. NCDC uses Google Analytics, a third-party web measurement and customization technology as mention. For more information click here- [terms of use](http://www.noaa.gov/protecting-your-privacy). 
 
 ##  Potential data users and decision-makers for this data.
     

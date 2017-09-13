@@ -15,7 +15,7 @@ Overview of writing a Readme Sample
     ## Data set -3
     ### Strom Event_2017 
        
- * ## **_Assignment no. 3_**
+ * # **_Assignment no. 3_**
     ### Data Entry Analysis
     
  * ### _Most probably this file contain data sets for future assignment_.

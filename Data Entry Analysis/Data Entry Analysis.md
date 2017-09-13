@@ -42,8 +42,8 @@ Few point, I would like to recommend
 **_Table 1: Cuni Table_**  
 
 | Date | Time(EST) | Depth(meters) | Species | Colony Diameter(meters) | Cuni Colony Size(millimeter) | Temperature(Degree Celsius) | Density(Liters) | Cuni #/L | Cuni Colony Size(millimeter) | Chlorophyll A | Station | Reference |
-|------|-----------|-----------------------------|-----------------|-------------------------|---------|---------------|------------|--------------------------------|---------------|---------|
-|      |           |                             |                 |                         |         |               |            |                                |               |         |                           |
+|------|-----------|---------------|---------|-------------------------|------------------------------|-----------------------------|-------------------|----------|------------------------------|---------------|---------|------------|
+|      |           |               |         |                         |                              |                             |                   |          |                              |               |         |             |
 
 **_Table 2: Chippo Table_**  
 

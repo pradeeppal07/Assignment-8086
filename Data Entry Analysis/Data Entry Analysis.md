@@ -20,7 +20,7 @@ The problems identified from the data files provided are as follows :-
 4. In the spreadsheet of pond2010.xlsx , data is for the year 2010, whereas the zoop temp data and zoop temp-main files is having data for the year 2011. So its  would be quite difficult to linking all these data files and converting them for useful information.
 5. The units of measurement for the columns in all the data files are missing.
 6. Most of the column names are abbreviated and there is no definitions stated clearly anywhere for all the column names. So its is very difficult for investigator or any person to viewed data through column names.
-7. In zoop temp main.xlsx, I found there was a negative value in column name -Cuni#/L which seems to be irrelevant and found no connection with any parameter.
+7. In both zoop temp.xlsx and  zoop temp main.xlsx, I found there was a negative value in column names Chippo#/L and Cuni#/L respecively. which seems to be irrelevant and found no connection with any parameter.
 
 
 ### Task 2 Solutions

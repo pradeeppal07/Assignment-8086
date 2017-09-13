@@ -20,7 +20,7 @@ Overview of writing a Readme Sample
     
  * ### _Most probably this file contain data sets for future assignment_.
   
- * ### License or Terms of use ### * 
+ * # License or Terms of use * 
    This file is using Apache license, Version 2.0  See the [License](https://www.apache.org/licenses/LICENSE-2.0) page for more information.
  
   Discussion List <a id="discussion-list" />
